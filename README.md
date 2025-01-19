@@ -1,4 +1,4 @@
-# Walmart-Shopping-List
+# My-Shopping-List
 # This project is an **unoffical** shopping list manager inspired by popular retail stores.
 **📌 Project Overview**
 
