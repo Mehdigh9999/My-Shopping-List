@@ -1,5 +1,5 @@
 # Walmart-Shopping-List
-# This project is an **unoffical** shopping list manager inspired by Walmart.
+# This project is an **unoffical** shopping list manager inspired by popular retail stores.
 **📌 Project Overview**
 
 The My Shopping List is a simple yet functional web-based application that allows users to create, manage, and delete items from a shopping list. The project is built using HTML, CSS, and JavaScript, making it lightweight and easy to use.
