@@ -4,7 +4,7 @@ body {
 }
 
 .header {
-    background-color: #0071ce; /* Walmart Blue */
+    background-color: #0071ce;
     color: white;
     text-align: center;
     padding: 20px;
@@ -35,7 +35,7 @@ body {
 }
 
 .add-to-cart {
-    background-color: #ffc220; /* Walmart Yellow */
+    background-color: #ffc220; 
     border: none;
     padding: 10px;
     cursor: pointer;
@@ -64,7 +64,7 @@ body {
 }
 
 .checkout {
-    background-color: #0071ce; /* Walmart Blue */
+    background-color: #0071ce; 
     color: white;
     border: none;
     padding: 10px;
