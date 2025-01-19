@@ -47,3 +47,4 @@ Remove an item using the delete button.
 This project is licensed under the MIT License.
 
 📌 Contributions, suggestions, and feedback are welcome! Feel free to fork and enhance the project.
+#  Disclaimer: This project is an independent shopping list manager and is not affiliated with, endorsed by, or sponsored by Walmart Inc.
