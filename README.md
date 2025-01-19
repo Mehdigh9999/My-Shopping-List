@@ -1,4 +1,5 @@
 # Walmart-Shopping-List
+# This project is an **unoffical** shopping list manager inspired by Walmart.
 **📌 Project Overview**
 
 The Walmart Shopping List is a simple yet functional web-based application that allows users to create, manage, and delete items from a shopping list. The project is built using HTML, CSS, and JavaScript, making it lightweight and easy to use.
