@@ -26,7 +26,7 @@ JavaScript (DOM Manipulation): Handles dynamic interactions like adding and remo
 
 Clone the repository:
 
-git clone https://github.com/Mehdigh9999/Walmart-Shopping-List.git
+git clone https://github.com/Mehdigh9999/My-Shopping-List.git
 
 Open index.html in a web browser.
 
