@@ -1,9 +1,9 @@
 # Walmart-Shopping-List
-#📌 Project Overview
+**📌 Project Overview**
 
 The Walmart Shopping List is a simple yet functional web-based application that allows users to create, manage, and delete items from a shopping list. The project is built using HTML, CSS, and JavaScript, making it lightweight and easy to use.
 
-#✨ Features
+**✨ Features**
 
 📌 Add Items: Users can enter items into the input field and add them to the shopping list.
 
@@ -13,7 +13,7 @@ The Walmart Shopping List is a simple yet functional web-based application that 
 
 💾 Persistent Storage (Upcoming Feature): Future updates will include local storage to save the list.
 
-#🛠️ Technologies Used
+**🛠️ Technologies Used**
 
 HTML: Provides the structure of the webpage.
 
@@ -21,7 +21,7 @@ CSS: Adds styling to enhance the user interface.
 
 JavaScript (DOM Manipulation): Handles dynamic interactions like adding and removing items.
 
-#🚀 How to Use
+**🚀 How to Use**
 
 Clone the repository:
 
@@ -35,15 +35,13 @@ Mark an item as completed by clicking its checkbox.
 
 Remove an item using the delete button.
 
-#🔧 Future Improvements
-
-📝 Save items to local storage so they persist after page reload.
+**🔧 Future Improvements**
 
 🎨 Improve UI design for a better user experience.
 
 📱 Make it mobile-friendly using responsive design.
 
-#📜 License
+**📜 License**
 
 This project is licensed under the MIT License.
 
